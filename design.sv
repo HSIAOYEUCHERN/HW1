@@ -1,4 +1,3 @@
-// Code your design here
 module decoder(E , In , Out);
 input E;
 input  [2:0] In;
