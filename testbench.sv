@@ -1,5 +1,3 @@
-// Code your testbench here
-// or browse Examples
 module decoder_3_8_tb;
 reg E_tb;
 reg clka, clkb;
